@@ -31,7 +31,7 @@ author = "authors"
 [params]
   author = "Xiaojie Sun"
   description = "All work and no play makes Jessy a dull girl."
-  homepageImage = "/images/front_page.jpg"
+  homepageImage = "/static/front_page.jpg"
   share = true
   showLanguageSwitcher = false
 
