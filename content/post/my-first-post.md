@@ -5,6 +5,7 @@ draft: false
 categories: [test]
 tags: ["test"]
 authors: [xijie]
+images: ["/images/front_page.png"]
 ---
 
 ### 背景基础
