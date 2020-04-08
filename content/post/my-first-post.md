@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "双分类变量的箱线图"
 date: 2020-04-08T20:57:54+08:00
 draft: false
 categories: [test]
