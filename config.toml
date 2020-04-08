@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
-title = "Hugo Themes"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+title = "Xiaojie Sun"
+copyright = "Copyright © 2008–2020 Xiaojie Sun Bioinfoplanet"
 paginate = 2
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -29,9 +29,9 @@ series = "series"
 author = "authors"
 
 [params]
-  author = "Hugo Authors"
-  description = "Lorem ipsum dolor sit amet."
-  homepageImage = "/images/homepage-image.jpg"
+  author = "Xiaojie Sun"
+  description = "All work and no play makes Jessy a dull girl."
+  homepageImage = "/images/focus-photo-of-super-mario-luigi-and-yoshi-figurines-163036.jpg"
   share = true
   showLanguageSwitcher = false
 
