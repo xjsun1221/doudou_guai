@@ -31,7 +31,7 @@ author = "authors"
 [params]
   author = "Xiaojie Sun"
   description = "All work and no play makes Jessy a dull girl."
-  homepageImage = "/images/focus-photo-of-super-mario-luigi-and-yoshi-figurines-163036.jpg"
+  homepageImage = "/image/front_page.jpg"
   share = true
   showLanguageSwitcher = false
 
